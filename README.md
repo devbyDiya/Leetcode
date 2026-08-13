@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991089/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/2410991089/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
