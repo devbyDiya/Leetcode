@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991089/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/2410991089/Leetcode/tree/master/0053-maximum-subarray) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
