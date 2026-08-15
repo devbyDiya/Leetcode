@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/2410991089/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/2410991089/Leetcode/tree/master/0053-maximum-subarray) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2410991089/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2410991089/Leetcode/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2410991089/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
