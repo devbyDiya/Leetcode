@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/2410991089/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/2410991089/Leetcode/tree/master/0053-maximum-subarray) |
+| [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
 | [1563-stone-game-v](https://github.com/2410991089/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/2410991089/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2410991089/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/2410991089/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -106,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/2410991089/Leetcode/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
