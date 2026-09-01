@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/2410991089/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/2410991089/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/2410991089/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/2410991089/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/2410991089/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2410991089/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/2410991089/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/2410991089/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/2410991089/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/2410991089/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991089/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
 | [1386-cinema-seat-allocation](https://github.com/2410991089/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/2410991089/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/2410991089/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2410991089/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/2410991089/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
