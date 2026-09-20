@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/2410991089/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/2410991089/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/2410991089/Leetcode/tree/master/0015-3sum) |
+| [0051-n-queens](https://github.com/2410991089/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/2410991089/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/2410991089/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/2410991089/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -209,6 +210,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/2410991089/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/2410991089/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/2410991089/Leetcode/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/2410991089/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
