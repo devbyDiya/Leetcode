@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/2410991089/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/2410991089/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2410991089/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/2410991089/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/2410991089/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/2410991089/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/2410991089/Leetcode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/2410991089/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/2410991089/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/2410991089/Leetcode/tree/master/1927-sum-game) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2410991089/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/2410991089/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2410991089/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/2410991089/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/2410991089/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991089/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/2410991089/Leetcode/tree/master/0705-design-hashset) |
